@@ -28,3 +28,4 @@ def read():
 #round 
 #lower (islower) True/False
 #upper (isupper) True/False
+#count
